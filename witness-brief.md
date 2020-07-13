@@ -4,7 +4,7 @@
 
 ### Open Design Contact Information.
 
-**Email:** opendesign@gmail.com
+**Email:** opendesignis@gmail.com
 **Website:** opendesign.ushahidi.com
 Open Design [Facebook](https://www.facebook.com/OpenDesignIs/)
 **Open Design** [Twitter](https://twitter.com/opendesignis)
