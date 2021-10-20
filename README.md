@@ -2,7 +2,9 @@
 
 ## How to talk to us
 
-You can join the Open Design slack [here](https://join.slack.com/t/open-design-is/shared_invite/enQtODMwMzE0MTgxMDkyLTk0MGViYWI0NWJjNjQ3NDM5MzNjNDcwYjNmYzc3NmFlYTZkODVlMzY3ZDc3NTY5MzI5M2E5NzM2ZWU1YjMxNmE)
+<s>You can join the Open Design slack</s>
+
+We moved to [Discord!](https://discord.gg/Ev38r2m2FU)
 
 You can talk to us on any of the Open Design issues via comments.
 
