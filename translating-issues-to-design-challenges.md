@@ -4,8 +4,8 @@ This is an activity that the Open Design team have been trialling during 2020 wo
 
 You can find links to the working whiteboard that we used a tool Miro for below:
 
-
-[Miro Workboard for Open Source 101:at home 2020](https://miro.com/app/board/o9J_kssgrCI=/?moveToWidget=3074457347960218997&cot=13)
+links no longer work - looking for a new home for these miro boards!
+[Miro Workboard for Open Source 101:at home 2020](https://miro.com/app/board/o9J_kssgrCI=/?moveToWidget=3074457347960218997&cot=13) 
 
 [Miro Workboard for UX Bristol 2020](https://miro.com/app/board/o9J_kpHm2Dg=/?moveToWidget=3074457348860887095&cot=13)
 
