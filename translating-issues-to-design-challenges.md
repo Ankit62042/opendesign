@@ -4,12 +4,12 @@ This is an activity that the Open Design team have been trialling during 2020 wo
 
 You can find links to the working whiteboard that we used a tool Miro for below:
 
-links no longer work - looking for a new home for these miro boards!
-[Miro Workboard for Open Source 101:at home 2020](https://miro.com/app/board/o9J_kssgrCI=/?moveToWidget=3074457347960218997&cot=13) 
 
-[Miro Workboard for UX Bristol 2020](https://miro.com/app/board/o9J_kpHm2Dg=/?moveToWidget=3074457348860887095&cot=13)
+[Miro Workboard for Open Source 101:at home 2020](https://miro.com/app/board/o9J_luu3JGw=/?share_link_id=617301176692)
 
-[Miro Workboard for RighstCon 2020](https://miro.com/app/board/o9J_kov0SVA=/?moveToWidget=3074457349055841686&cot=13)
+[Miro Workboard for UX Bristol 2020](https://miro.com/app/board/o9J_lq02e_8=/?share_link_id=695937082946)
+
+[Miro Workboard for RighstCon 2020](https://miro.com/app/board/uXjVKM74nGY=/?share_link_id=247058537995)
 
 
 -----
