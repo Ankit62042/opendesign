@@ -49,4 +49,4 @@ Open Design ‘Phase 2’ has already learned large amounts of new data and info
 Last but not least Open Design has been running for the last 6 months with no funding so purely as a volunteer effort. In order to deliver quality research, insight and eventually, in-person workshops and sessions with designers and open source software we need funding. To this end, we’ve had conversations with fiscal hosts for funds and also started to set up GitHub sponsors as well as other ways of funding our ongoing work. If you have any advice, insight or support to offer us, we’re very happy to receive it asa opendesignis@gmail.com
 
 
-Eriol Fox signing off for opening up design and open source x
+Eriol Fox signing off for opening up design and open source x hhh
